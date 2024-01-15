@@ -1,0 +1,27 @@
+.payment{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+  
+.payment-container{
+    margin-bottom: 20px;
+}
+
+.payment button{
+
+    font-size:30px;
+}
+
+.confirm-payment{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.confirm-buttons{
+    display:flex;
+    gap:10px;
+}

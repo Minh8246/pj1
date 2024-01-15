@@ -1,0 +1,54 @@
+.home-theme{
+    
+    display:flex;
+    
+    justify-content: center;
+    align-items: center; 
+    height: 101vh;
+    width: 101vw;
+    margin : -1%;
+    background-color: gray;
+}
+
+.register-box {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+     
+    background-color: hsl(212, 45%, 89%);
+    border-radius: 8px;
+    height: 500px;
+    width: 700px;
+}
+
+.home-input{
+    width: 80%;
+    height: 10%;
+    margin-bottom: 10px;
+}
+
+.home-button{
+    width: 80%;
+    height: 10%;
+    margin-bottom: 10px;
+}
+
+.jumptosignup{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: row;
+}
+.jumptosignup-button{
+    margin-left: 20px;
+}
+
+.jumptologin{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: row;
+}
+.jumptologin-button{
+    margin-left: 20px;
+}
